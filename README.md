@@ -1,2 +1,2 @@
-# stepik-auto-tests-course
+# stepik
 Первый курс по автотестам, Homework
